@@ -1,7 +1,7 @@
 {
 	"description": "New project to learn from fcc",
   	"version": "0.1.0",
-  	"author": "Tatheer Hussain",
+  	"author": "Jane Doe",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.16.4"
