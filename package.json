@@ -1,10 +1,13 @@
 {
-	"description": "New project to learn from fcc",
-  	"version": "0.1.0",
-  	"author": "Tatheer Hussain Mir",
-	"name": "fcc-learn-npm-package-json",
+	"name": "fcc learning",
+  "description": "New project to learn from fcc",
+  "version": "0.1.0",
+ 	"author": "Tatheer Hussain Mir",
+  "keywords": [ "freecodecamp", "tatheer", "words" ],
+  "license": "NCU",
 	"dependencies": {
-		"express": "^4.16.4"
+    "package-name": "0.1.0",
+    "moment": "2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -15,6 +18,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/TatheerHussain/fcc.gitgit"
+		"url": "https://github.com/TatheerHussain/fcc.git"
 	}
 }
