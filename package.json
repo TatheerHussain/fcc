@@ -1,9 +1,8 @@
 {
-
 	"name": "fcc-learn-npm-package-json",
 	"author": "Tatheer Hussain",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.16.4"
 	},
 	"main": "server.js",
 	"scripts": {
